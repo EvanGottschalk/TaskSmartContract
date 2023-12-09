@@ -1,0 +1,44 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Edition",
+        "value": "1st Edition"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Element",
+        "value": "Water"
+      },
+      {
+        "trait_type": "Class of",
+        "value": "2023"
+      },
+      {
+        "trait_type": "Holder Title",
+        "value": "Meliorite"
+      },
+      {
+        "trait_type": "Oath",
+        "value": "NoFun Meliorism"
+      },
+      {
+        "trait_type": "Signature #",
+        "value": "0"
+      },
+      {
+        "trait_type": "Signature Date",
+        "value": "7/8/23"
+      },
+      {
+        "trait_type": "Signature Time",
+        "value": "4:20 UTC"
+      }
+    ],
+    "description": "The owner of this NFT has sworn The Oath to Meliorism and vows to live by the NoFun Manifesto.",
+    "image": "https://nftstorage.link/ipfs/bafybeig5zx3di3mwbh7ysu5kfrhssdffimsoje4qle2vzrdqpzfrnupmvi/water.png",
+    "name": "NoFun Manifesto Signature",
+    "external_link": "https://nftstorage.link/ipfs/bafkreidhipae7rzp2qyt5b4k6lsxreyuwmkkl5zqh2qhimdmy4jtatk76i"
+  }
